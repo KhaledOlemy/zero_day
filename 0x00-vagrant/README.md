@@ -1,4 +1,4 @@
-This is the beginning for the __ZERO DAY__
-    Welcome to *Battlefield*
-    You're the _Gangsta_
+This is the beginning for the __ZERO DAY__\n
+    Welcome to *Battlefield*\n
+    You're the _Gangsta_\n
 See ya
